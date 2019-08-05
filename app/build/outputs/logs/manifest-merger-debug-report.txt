@@ -1,0 +1,336 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:2:1-83:12
+INJECTED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:2:1-83:12
+INJECTED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:2:1-83:12
+INJECTED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:2:1-83:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/manusia/.gradle/caches/transforms-2/files-2.1/d904a4177fc382395b5e0894d4fc17d0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/manusia/.gradle/caches/transforms-2/files-2.1/28f2051427c5ae094234331d554c76e8/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/900ec208a6d63d1b7a3bfe35b2bbec68/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/9e0b65228b8f74cf3bc5aa8cb931ffad/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/849f7c1f8986fb7fb22933a978496df2/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/06eab6d1f34ac03fc9d1196154cff0e6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/9e7ff3efef2f14049d9d0d5759436de8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/010bf85e13b225cddee908a1394be79c/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/6eff4ea9a0f1f5cd14bb8a5e5c2ffee0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/d43b846190f670b195728fd1efb3d992/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/74b1e0d833320fea4379197846ee925b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/682413a86167932968c5ba172941a637/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/manusia/.gradle/caches/transforms-2/files-2.1/67038d88b9ebd2d0069659956edf2a51/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/1ee2e0e3cf53ef24b91e770cf7a988ab/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/749aab193d4d6661ecb5d5bf2937207a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/9211161ee1f1e5596246f1377e9b27b3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/2424d728294ddf68a30c010417ca4739/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/e717cbd44a94e9ac3a604556b82b9eb5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/b283bcea166e7b5ef05d41c8cb3f48ce/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/1df59935a5350bfb3d0c6e7d0cc56719/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/eb9e6f26e990335a038be1cc8f5cde7f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/manusia/.gradle/caches/transforms-2/files-2.1/eacbb6baf9f020b20093860eb4b3d12b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/a56a1eeb3c956d223a5971e96bb01f70/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/d15d045635f8b6df7590e5a841bf5f6e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/fdca2d80486721bab136402213f97645/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/528965242494dc5c18492b55e7e5acb4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/c3229e68e48cf5cb869da3c429e7acbb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/be0384c8c7c901721ac17134c9f145b1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/912c709fde4bf3ec3ca30b9f8a62fc65/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/07f12f3f13bc0d251e06bea2442620f8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/54354c4f6e99868f72fc98e06d805bd1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/3ed4e3abd1d438f39f80c3048c11e03b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/3b97f81fd50f6556d73a97b441a00bc0/AndroidManifest.xml:17:1-22:12
+INJECTED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:2:1-83:12
+INJECTED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:2:1-83:12
+INJECTED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:2:1-83:12
+	package
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:3:5-51
+		INJECTED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml
+		INJECTED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:2:1-83:12
+		INJECTED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:2:1-83:12
+		INJECTED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/900ec208a6d63d1b7a3bfe35b2bbec68/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/900ec208a6d63d1b7a3bfe35b2bbec68/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/9e0b65228b8f74cf3bc5aa8cb931ffad/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/9e0b65228b8f74cf3bc5aa8cb931ffad/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:6:5-70
+	android:name
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:6:22-67
+uses-permission#android.permission.READ_SMS
+ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:8:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:9:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:10:22-78
+application
+ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:12:5-81:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/manusia/.gradle/caches/transforms-2/files-2.1/28f2051427c5ae094234331d554c76e8/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/manusia/.gradle/caches/transforms-2/files-2.1/28f2051427c5ae094234331d554c76e8/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/900ec208a6d63d1b7a3bfe35b2bbec68/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/900ec208a6d63d1b7a3bfe35b2bbec68/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/9e0b65228b8f74cf3bc5aa8cb931ffad/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/9e0b65228b8f74cf3bc5aa8cb931ffad/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/849f7c1f8986fb7fb22933a978496df2/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/849f7c1f8986fb7fb22933a978496df2/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/06eab6d1f34ac03fc9d1196154cff0e6/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/06eab6d1f34ac03fc9d1196154cff0e6/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/9e7ff3efef2f14049d9d0d5759436de8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/9e7ff3efef2f14049d9d0d5759436de8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/010bf85e13b225cddee908a1394be79c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/010bf85e13b225cddee908a1394be79c/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] /home/manusia/.gradle/caches/transforms-2/files-2.1/eacbb6baf9f020b20093860eb4b3d12b/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/manusia/.gradle/caches/transforms-2/files-2.1/eacbb6baf9f020b20093860eb4b3d12b/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/a56a1eeb3c956d223a5971e96bb01f70/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/a56a1eeb3c956d223a5971e96bb01f70/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/manusia/.gradle/caches/transforms-2/files-2.1/eacbb6baf9f020b20093860eb4b3d12b/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:18:9-40
+activity#com.irsyaad.dicodinglatihan.latihan3.gcmnetwork.GcmNetworkManagerActivity
+ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:19:9-83
+	android:name
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:19:19-71
+activity#com.irsyaad.dicodinglatihan.latihan3.jobscheduler.JobSchedullerActivity
+ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:20:9-72
+	android:name
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:20:19-69
+service#com.irsyaad.dicodinglatihan.latihan3.jobscheduler.GetCurrentWeatherJobService
+ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:22:9-26:72
+	android:enabled
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:24:13-35
+	android:exported
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:25:13-36
+	android:permission
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:26:13-69
+	android:name
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:23:13-69
+activity#com.irsyaad.dicodinglatihan.latihan3.alarm.AlarmManagerActivity
+ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:28:9-64
+	android:name
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:28:19-61
+receiver#com.irsyaad.dicodinglatihan.latihan3.alarm.AlarmReceiver
+ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:30:9-33:39
+	android:enabled
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:33:13-36
+	android:name
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:31:13-48
+service#com.irsyaad.dicodinglatihan.latihan3.broadcast.DownloadService
+ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:35:9-37:40
+	android:exported
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:36:13-54
+receiver#com.irsyaad.dicodinglatihan.latihan3.broadcast.SMSReceiver
+ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:39:9-46:20
+	android:enabled
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:42:13-36
+	android:name
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:40:13-50
+intent-filter#action:name:android.provider.Telephony.SMS_RECEIVED
+ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:43:13-45:29
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:44:17-82
+	android:name
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:44:25-79
+activity#com.irsyaad.dicodinglatihan.latihan3.broadcast.SMSReceiverActivity
+ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:48:9-50:55
+	android:theme
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:50:13-52
+	android:name
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:49:13-58
+activity#com.irsyaad.dicodinglatihan.latihan3.broadcast.BroadcastActivity
+ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:51:9-65
+	android:name
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:51:19-62
+service#com.irsyaad.dicodinglatihan.latihan3.service.BoundService
+ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:53:9-56:39
+	android:enabled
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:55:13-35
+	android:exported
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:56:13-36
+	android:name
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:54:13-49
+service#com.irsyaad.dicodinglatihan.latihan3.service.MyIntentService
+ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:57:9-59:40
+	android:exported
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:59:13-37
+	android:name
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:58:13-52
+service#com.irsyaad.dicodinglatihan.latihan3.service.OriginService
+ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:60:9-63:39
+	android:enabled
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:62:13-35
+	android:exported
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:63:13-36
+	android:name
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:61:13-50
+activity#com.irsyaad.dicodinglatihan.latihan3.service.ServiceActivity
+ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:65:9-61
+	android:name
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:65:19-58
+activity#com.irsyaad.dicodinglatihan.latihan3.asyntask.AsynctaskActivity
+ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:66:9-64
+	android:name
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:66:19-61
+activity#com.irsyaad.dicodinglatihan.latihan3.MainActivity
+ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:67:9-73:20
+	android:name
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:67:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:68:13-72:29
+action#android.intent.action.MAIN
+ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:69:17-69
+	android:name
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:69:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:71:17-77
+	android:name
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:71:27-74
+service#com.irsyaad.dicodinglatihan.latihan3.gcmnetwork.SchedulerService
+ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:74:9-80:19
+	android:exported
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:76:13-36
+	android:permission
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:75:13-93
+	android:name
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:74:18-61
+intent-filter#action:name:com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:77:13-79:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:78:17-86
+	android:name
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml:78:25-84
+uses-sdk
+INJECTED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml
+INJECTED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/manusia/.gradle/caches/transforms-2/files-2.1/d904a4177fc382395b5e0894d4fc17d0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/manusia/.gradle/caches/transforms-2/files-2.1/d904a4177fc382395b5e0894d4fc17d0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/manusia/.gradle/caches/transforms-2/files-2.1/28f2051427c5ae094234331d554c76e8/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/manusia/.gradle/caches/transforms-2/files-2.1/28f2051427c5ae094234331d554c76e8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/900ec208a6d63d1b7a3bfe35b2bbec68/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/900ec208a6d63d1b7a3bfe35b2bbec68/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/9e0b65228b8f74cf3bc5aa8cb931ffad/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/9e0b65228b8f74cf3bc5aa8cb931ffad/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/849f7c1f8986fb7fb22933a978496df2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/849f7c1f8986fb7fb22933a978496df2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/06eab6d1f34ac03fc9d1196154cff0e6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/06eab6d1f34ac03fc9d1196154cff0e6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/9e7ff3efef2f14049d9d0d5759436de8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/9e7ff3efef2f14049d9d0d5759436de8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/010bf85e13b225cddee908a1394be79c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/010bf85e13b225cddee908a1394be79c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/6eff4ea9a0f1f5cd14bb8a5e5c2ffee0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/6eff4ea9a0f1f5cd14bb8a5e5c2ffee0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/d43b846190f670b195728fd1efb3d992/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/d43b846190f670b195728fd1efb3d992/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/74b1e0d833320fea4379197846ee925b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/74b1e0d833320fea4379197846ee925b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/682413a86167932968c5ba172941a637/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/682413a86167932968c5ba172941a637/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/manusia/.gradle/caches/transforms-2/files-2.1/67038d88b9ebd2d0069659956edf2a51/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/manusia/.gradle/caches/transforms-2/files-2.1/67038d88b9ebd2d0069659956edf2a51/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/1ee2e0e3cf53ef24b91e770cf7a988ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/1ee2e0e3cf53ef24b91e770cf7a988ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/749aab193d4d6661ecb5d5bf2937207a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/749aab193d4d6661ecb5d5bf2937207a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/9211161ee1f1e5596246f1377e9b27b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/9211161ee1f1e5596246f1377e9b27b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/2424d728294ddf68a30c010417ca4739/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/2424d728294ddf68a30c010417ca4739/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/e717cbd44a94e9ac3a604556b82b9eb5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/e717cbd44a94e9ac3a604556b82b9eb5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/b283bcea166e7b5ef05d41c8cb3f48ce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/b283bcea166e7b5ef05d41c8cb3f48ce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/1df59935a5350bfb3d0c6e7d0cc56719/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/1df59935a5350bfb3d0c6e7d0cc56719/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/eb9e6f26e990335a038be1cc8f5cde7f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/eb9e6f26e990335a038be1cc8f5cde7f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/manusia/.gradle/caches/transforms-2/files-2.1/eacbb6baf9f020b20093860eb4b3d12b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/manusia/.gradle/caches/transforms-2/files-2.1/eacbb6baf9f020b20093860eb4b3d12b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/a56a1eeb3c956d223a5971e96bb01f70/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/a56a1eeb3c956d223a5971e96bb01f70/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/d15d045635f8b6df7590e5a841bf5f6e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/d15d045635f8b6df7590e5a841bf5f6e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/fdca2d80486721bab136402213f97645/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/fdca2d80486721bab136402213f97645/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/528965242494dc5c18492b55e7e5acb4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/528965242494dc5c18492b55e7e5acb4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/c3229e68e48cf5cb869da3c429e7acbb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/c3229e68e48cf5cb869da3c429e7acbb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/be0384c8c7c901721ac17134c9f145b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/be0384c8c7c901721ac17134c9f145b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/912c709fde4bf3ec3ca30b9f8a62fc65/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/912c709fde4bf3ec3ca30b9f8a62fc65/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/07f12f3f13bc0d251e06bea2442620f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/07f12f3f13bc0d251e06bea2442620f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/54354c4f6e99868f72fc98e06d805bd1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/54354c4f6e99868f72fc98e06d805bd1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/3ed4e3abd1d438f39f80c3048c11e03b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/3ed4e3abd1d438f39f80c3048c11e03b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/3b97f81fd50f6556d73a97b441a00bc0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/3b97f81fd50f6556d73a97b441a00bc0/AndroidManifest.xml:20:5-44
+INJECTED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml
+INJECTED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml
+		INJECTED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml
+		ADDED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml
+		INJECTED from /media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/src/main/AndroidManifest.xml
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/900ec208a6d63d1b7a3bfe35b2bbec68/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/9e0b65228b8f74cf3bc5aa8cb931ffad/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/9e0b65228b8f74cf3bc5aa8cb931ffad/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/900ec208a6d63d1b7a3bfe35b2bbec68/AndroidManifest.xml:23:22-79
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/849f7c1f8986fb7fb22933a978496df2/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/849f7c1f8986fb7fb22933a978496df2/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/849f7c1f8986fb7fb22933a978496df2/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/849f7c1f8986fb7fb22933a978496df2/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/010bf85e13b225cddee908a1394be79c/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/010bf85e13b225cddee908a1394be79c/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /home/manusia/.gradle/caches/transforms-2/files-2.1/010bf85e13b225cddee908a1394be79c/AndroidManifest.xml:24:13-58

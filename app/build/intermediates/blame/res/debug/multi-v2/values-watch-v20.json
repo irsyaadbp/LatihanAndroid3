@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/manusia/data/Aplikasi Git/SmartTabLayout-master/Latihan3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/manusia/.gradle/caches/transforms-2/files-2.1/d904a4177fc382395b5e0894d4fc17d0/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}
