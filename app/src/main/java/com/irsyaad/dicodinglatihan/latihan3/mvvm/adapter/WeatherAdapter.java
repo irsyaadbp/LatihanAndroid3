@@ -17,9 +17,9 @@ public class WeatherAdapter extends RecyclerView.Adapter<WeatherAdapter.WeatherV
 
     private ArrayList<WeatherItems> mData = new ArrayList<>();
 
-    public void setData(ArrayList<WeatherItems> mData) {
+    public void setData(ArrayList<WeatherItems> data) {
         mData.clear();
-        mData.addAll(mData);
+        mData.addAll(data);
         notifyDataSetChanged();
     }
 

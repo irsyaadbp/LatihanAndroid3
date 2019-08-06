@@ -135,6 +135,11 @@ attr editTextStyle
 attr elevation
 attr emptyVisibility
 attr expandActivityOverflowButtonDrawable
+attr fastScrollEnabled
+attr fastScrollHorizontalThumbDrawable
+attr fastScrollHorizontalTrackDrawable
+attr fastScrollVerticalThumbDrawable
+attr fastScrollVerticalTrackDrawable
 attr firstBaselineToTopHeight
 attr font
 attr fontFamily
@@ -167,6 +172,7 @@ attr itemPadding
 attr keylines
 attr lastBaselineToBottomHeight
 attr layout
+attr layoutManager
 attr layout_anchor
 attr layout_anchorGravity
 attr layout_behavior
@@ -264,6 +270,7 @@ attr radioButtonStyle
 attr ratingBarStyle
 attr ratingBarStyleIndicator
 attr ratingBarStyleSmall
+attr reverseLayout
 attr scopeUris
 attr searchHintIcon
 attr searchIcon
@@ -276,11 +283,13 @@ attr showDividers
 attr showText
 attr showTitle
 attr singleChoiceItemLayout
+attr spanCount
 attr spinBars
 attr spinnerDropDownItemStyle
 attr spinnerStyle
 attr splitTrack
 attr srcCompat
+attr stackFromEnd
 attr state_above_anchor
 attr statusBarBackground
 attr subMenuArrow
@@ -533,6 +542,9 @@ dimen compat_notification_large_icon_max_height
 dimen compat_notification_large_icon_max_width
 dimen disabled_alpha_material_dark
 dimen disabled_alpha_material_light
+dimen fastscroll_default_thickness
+dimen fastscroll_margin
+dimen fastscroll_minimum_range
 dimen highlight_alpha_material_colored
 dimen highlight_alpha_material_dark
 dimen highlight_alpha_material_light
@@ -540,6 +552,9 @@ dimen hint_alpha_material_dark
 dimen hint_alpha_material_light
 dimen hint_pressed_alpha_material_dark
 dimen hint_pressed_alpha_material_light
+dimen item_touch_helper_max_drag_scroll_per_frame
+dimen item_touch_helper_swipe_escape_max_velocity
+dimen item_touch_helper_swipe_escape_velocity
 dimen notification_action_icon_size
 dimen notification_action_text_size
 dimen notification_big_circle_margin
@@ -725,16 +740,20 @@ id barrier
 id beginning
 id blocking
 id bottom
+id btnCity
 id btn_alarm
 id btn_asyntask
+id btn_backstack
 id btn_broadcast
 id btn_cancel
 id btn_cancel_repeating_alarm
 id btn_cancel_scheduler
 id btn_close
 id btn_download
+id btn_fbdispatcher
 id btn_gcm
 id btn_job
+id btn_mvvm
 id btn_once_date
 id btn_once_time
 id btn_permission
@@ -768,6 +787,7 @@ id default_activity_button
 id dimensions
 id direct
 id disableHome
+id editCity
 id edit_query
 id edt_once_message
 id edt_repeating_message
@@ -789,8 +809,10 @@ id icon_only
 id ifRoom
 id image
 id info
+id inputText
 id invisible
 id italic
+id item_touch_helper_previous_elevation
 id left
 id light
 id line1
@@ -810,9 +832,11 @@ id packed
 id parent
 id parentPanel
 id percent
+id progressBar
 id progress_circular
 id progress_horizontal
 id radio
+id recyclerView
 id right
 id right_icon
 id right_side
@@ -852,8 +876,11 @@ id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
 id text
 id text2
+id textDesc
+id textKota
 id textSpacerNoButtons
 id textSpacerNoTitle
+id textTemp
 id time
 id title
 id titleDividerNoCustom
@@ -865,6 +892,7 @@ id tv_no
 id tv_once_date
 id tv_once_time
 id tv_repeating_time
+id tv_title
 id txt_desc
 id txt_status
 id uniform
@@ -911,9 +939,12 @@ layout abc_tooltip
 layout activity_alarm_manager
 layout activity_asyntask
 layout activity_broadcast
+layout activity_detail_backstack
+layout activity_firebase_dispatcher
 layout activity_gcm_network_manager
 layout activity_job_scheduller
 layout activity_main
+layout activity_main_view_model
 layout activity_service
 layout activity_smsreceiver
 layout notification_action
@@ -926,6 +957,7 @@ layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
+layout weather_items
 mipmap ic_launcher
 mipmap ic_launcher_round
 string abc_action_bar_home_description
@@ -967,6 +999,8 @@ string abc_searchview_description_voice
 string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
+string activity_detail
+string activity_home
 string alarm_date
 string alarm_manager
 string alarm_message
@@ -1000,13 +1034,22 @@ string common_signin_button_text
 string common_signin_button_text_long
 string description
 string description_job
+string description_vm
 string download
 string download_file
+string firebase_dispatcher
 string gcm_fallback_notification_channel_label
 string gcm_network_manager
+string id_jakarta_bandung_semarang
+string insert_city
 string job_scheduler
+string message
+string mvvm
+string name
 string one_time_alarm
+string open_detail
 string repeating_alarm
+string search
 string search_menu_title
 string service
 string set_one_time_alarm
@@ -1022,8 +1065,11 @@ string status_bar_notification_info_overflow
 string status_post
 string status_pre
 string stop_bound_service
+string string_backstack
+string temperature
 string this_play
 string this_sms_receiver_app
+string title
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog
@@ -1411,6 +1457,7 @@ styleable MenuView android_windowAnimationStyle android_itemTextAppearance andro
 styleable PopupWindow android_popupBackground android_popupAnimationStyle overlapAnchor
 styleable PopupWindowBackgroundState state_above_anchor
 styleable RecycleListView paddingBottomNoButtons paddingTopNoTitle
+styleable RecyclerView android_orientation android_descendantFocusability fastScrollEnabled fastScrollHorizontalThumbDrawable fastScrollHorizontalTrackDrawable fastScrollVerticalThumbDrawable fastScrollVerticalTrackDrawable layoutManager reverseLayout spanCount stackFromEnd
 styleable SearchView android_focusable android_maxWidth android_inputType android_imeOptions closeIcon commitIcon defaultQueryHint goIcon iconifiedByDefault layout queryBackground queryHint searchHintIcon searchIcon submitBackground suggestionRowLayout voiceIcon
 styleable SignInButton buttonSize colorScheme scopeUris
 styleable Spinner android_entries android_popupBackground android_prompt android_dropDownWidth popupTheme
