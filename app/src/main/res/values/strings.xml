@@ -47,4 +47,24 @@
     <string name="gcm_network_manager">GCM Network Manager</string>
     <string name="set_scheduler">Set Scheduler</string>
     <string name="cancel_scheduler">Cancel Scheduler</string>
+
+    <!--Firebase Dispatcher-->
+    <string name="firebase_dispatcher">Firebase Dispatcher</string>
+
+    <!--Backstack-->
+    <string name="string_backstack">Navigasi, Task, dan Backstack</string>
+    <string name="activity_home">Home</string>
+    <string name="activity_detail">Detail</string>
+    <string name="title">Title</string>
+    <string name="message">Message</string>
+    <string name="open_detail">Open Detail</string>
+
+    <!--MVVM-->
+    <string name="description_vm">Deskripsi</string>
+    <string name="temperature">Temperatur</string>
+    <string name="name">Nama Kota</string>
+    <string name="insert_city">Masukkan id kota misal Jakarta = 1642911</string>
+    <string name="search">Cari</string>
+    <string name="id_jakarta_bandung_semarang">1642911,1650357,1627896</string>
+    <string name="mvvm">MVVM</string>
 </resources>

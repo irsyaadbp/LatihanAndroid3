@@ -43,4 +43,22 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/gcm_network_manager" />
+
+    <Button
+        android:id="@+id/btn_fbdispatcher"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/firebase_dispatcher" />
+
+    <Button
+        android:id="@+id/btn_backstack"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/string_backstack" />
+
+    <Button
+        android:id="@+id/btn_mvvm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/mvvm" />
 </LinearLayout>
